@@ -47,6 +47,9 @@ Notes:
 **Test Case File**
 - Manual test cases and scenarios: https://docs.google.com/spreadsheets/d/1HPXTLORcY4HtqFTPeVBbc6Erk4JdniSGno8GmGUm8k4/edit?usp=sharing
 
+### Bug report:
+https://docs.google.com/spreadsheets/d/1NbLsbijrao4pmHPbn_0Mc2VD8UX40F4zBOtP62sm1xk/edit?usp=sharing
+
 **Reports**
 - Generated HTML report: `Reports/report.html` (also viewable as attached screenshot in repository history)
 
