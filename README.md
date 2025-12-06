@@ -11,7 +11,10 @@ The goal of this project is to practice API testing, documentation, bug reportin
 
 ### How to run:
 - `npm i`
-- node report.js
+- `npm test`
+
+### Caution:
+* Must need secret key to run this project *
 
 ### View API Documentation:
 https://documenter.getpostman.com/view/49887090/2sB3dPTAsk
